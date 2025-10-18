@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="M3U to EPG Converter" generator-info-url="http://example.com">
+  <channel id="WOLODT1.us@SD">
+    <display-name lang="en">ABC 25 Columbia</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2048px-ABC-2021-LOGO.svg.png" />
+  </channel>
+  <channel id="ACCNetwork.us@SD">
+    <display-name lang="en">ACCN (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" />
+  </channel>
+  <channel id="AMC.us@East">
+    <display-name lang="en">AMC East (1080p)</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" />
+  </channel>
+  <channel id="AntennaTV.us@SD">
+    <display-name lang="en">Antenna TV</display-name>
+    <icon src="https://www.newscaststudio.com/wp-content/uploads/2022/06/antenna-tv-new-logo.jpg" />
+  </channel>
+  <channel id="Aspire.us@SD">
+    <display-name lang="en">Aspire</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/88/Aspire_tv.png" />
+  </channel>
+  <channel id="AXSTV.us@SD">
+    <display-name lang="en">AXS TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" />
+  </channel>
+  <channel id="BBCAmerica.us@East">
+    <display-name lang="en">BBC America East</display-name>
+    <icon src="https://brandeps.com/logo-download/B/BBC-America-logo-vector-01.svg" />
+  </channel>
+  <channel id="BBCNews.uk@NorthAmerica">
+    <display-name lang="en">BBC News North America</display-name>
+    <icon src="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png" />
+  </channel>
+  <channel id="beINSportsUSA.us@SD">
+    <display-name lang="en">beIN Sports USA</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" />
+  </channel>
+  <channel id="BET.us@East">
+    <display-name lang="en">BET East</display-name>
+    <icon src="https://download.logo.wine/logo/BET/BET-Logo.wine.png" />
+  </channel>
+  <channel id="BETGospel.us@SD">
+    <display-name lang="en">BET Gospel</display-name>
+    <icon src="https://p1.hiclipart.com/preview/302/3/781/tv-channel-icons-pack-bet-gospel-color-png-icon.jpg" />
+  </channel>
+  <channel id="BETHer.us@East">
+    <display-name lang="en">BET Her East</display-name>
+    <icon src="https://img.favpng.com/11/9/4/bet-her-logo-tv-television-channel-png-favpng-Y6pF4y4qLKJ903Y7xvuB7Rt58.jpg" />
+  </channel>
+  <channel id="BETJams.us@SD">
+    <display-name lang="en">BET Jams</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/8f/BET_Jams_Logo.png" />
+  </channel>
+  <channel id="BETSoul.us@SD">
+    <display-name lang="en">BET Soul</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" />
+  </channel>
+  <channel id="BigTenNetwork.us@SD">
+    <display-name lang="en">Big Ten Network</display-name>
+    <icon src="https://simg.nicepng.com/png/small/178-1780608_big-ten-network-logo.png" />
+  </channel>
+  <channel id="BloombergTV.us@US">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <icon src="https://spng.pngfind.com/pngs/s/90-907559_bloomberg-logo-photo-bloomberg-tv-logo-png-transparent.png" />
+  </channel>
+  <channel id="Bounce.us@SD">
+    <display-name lang="en">Bounce</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bounce_TV_2017_logo.png" />
+  </channel>
+  <channel id="Bravo.us@East">
+    <display-name lang="en">Bravo East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" />
+  </channel>
+  <channel id="Buzzr.us@SD">
+    <display-name lang="en">Buzzr</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/250px-Buzzr_logo.svg.png" />
+  </channel>
+  <channel id="CSPAN.us@SD">
+    <display-name lang="en">C-SPAN</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/2560px-C-SPAN_Logo_%282019%29.svg.png" />
+  </channel>
+  <channel id="CBS.us@East">
+    <display-name lang="en">CBS East (720p)</display-name>
+    <icon src="https://brandeps.com/logo-download/C/CBS-logo-vector-01.svg" />
+  </channel>
+  <channel id="CBSSportsNetworkUSA.us@SD">
+    <display-name lang="en">CBS Sports Network USA</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" />
+  </channel>
+  <channel id="CHBLTV.ca@SD">
+    <display-name lang="en">CHBL-TV</display-name>
+    <icon src="https://cdn.freebiesupply.com/logos/large/2x/chbc-television-logo-svg-vector.svg" />
+  </channel>
+  <channel id="CleoTV.us@SD">
+    <display-name lang="en">Cleo TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/02/Cleo_TV_logo.png" />
+  </channel>
+  <channel id="CMT.us@East">
+    <display-name lang="en">CMT East</display-name>
+    <icon src="https://brandeps.com/logo-download/C/CMT-logo-vector-01.svg" />
+  </channel>
+  <channel id="CNBC.us@SD">
+    <display-name lang="en">CNBC</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/330px-CNBC_logo.svg.png" />
+  </channel>
+  <channel id="CNBCWorld.us@SD">
+    <display-name lang="en">CNBC World</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/76/CNBC_World_2.svg/revision/latest?cb=20160507181655" />
+  </channel>
+  <channel id="ComedyCentral.us@East">
+    <display-name lang="en">Comedy Central East (720p)</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" />
+  </channel>
+  <channel id="ComedyTV.us@SD">
+    <display-name lang="en">Comedy TV</display-name>
+    <icon src="https://www.shutterstock.com/image-vector/comedy-tv-logo-design-600nw-1345372031.jpg" />
+  </channel>
+  <channel id="Comet.us@SD">
+    <display-name lang="en">Comet</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1024px-Comet_logo.svg.png" />
+  </channel>
+  <channel id="CourtTV.us@SD">
+    <display-name lang="en">Court TV</display-name>
+    <icon src="https://cdn.freebiesupply.com/logos/thumbs/2x/court-tv-logo.png" />
+  </channel>
+  <channel id="CoziTV.us@SD">
+    <display-name lang="en">Cozi TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" />
+  </channel>
+  <channel id="Crave1.ca@SD">
+    <display-name lang="en">Crave 1</display-name>
+    <icon src="https://www.cornergas.com/wp-content/uploads/2019/09/Untitled-design.png" />
+  </channel>
+  <channel id="Crave2.ca@SD">
+    <display-name lang="en">Crave 2</display-name>
+    <icon src="https://www.cornergas.com/wp-content/uploads/2019/09/Untitled-design.png" />
+  </channel>
+  <channel id="Crave3.ca@SD">
+    <display-name lang="en">Crave 3</display-name>
+    <icon src="https://www.cornergas.com/wp-content/uploads/2019/09/Untitled-design.png" />
+  </channel>
+  <channel id="Crave4.ca@SD">
+    <display-name lang="en">Crave 4</display-name>
+    <icon src="https://www.cornergas.com/wp-content/uploads/2019/09/Untitled-design.png" />
+  </channel>
+  <channel id="CrimePlusInvestigation.us@SD">
+    <display-name lang="en">Crime + Investigation</display-name>
+    <icon src="https://p1.hiclipart.com/preview/137/473/273/tv-channel-icons-pack-crime-investigation-network-hd-color-png-icon.jpg" />
+  </channel>
+  <channel id="CuriosityStream.us@SD">
+    <display-name lang="en">CuriosityStream (720p)</display-name>
+    <icon src="https://press.curiositystream.com/wp-content/uploads/2021/08/Curiosity_Combo_Stack_Color_Pos.png" />
+  </channel>
+  <channel id="CVMTV.jm@SD">
+    <display-name lang="en">CVM TV</display-name>
+    <icon src="https://p1.hiclipart.com/preview/302/3/781/tv-channel-icons-pack-bet-gospel-color-png-icon.jpg" />
+  </channel>
+  <channel id="DisneyChannel.us@East">
+    <display-name lang="en">Disney Channel East</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2019-present.jpg" />
+  </channel>
+  <channel id="DisneyJunior.us@East">
+    <display-name lang="en">Disney Junior East</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" />
+  </channel>
+  <channel id="DisneyXD.us@East">
+    <display-name lang="en">Disney XD (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2009_Disney_XD_logo.svg/2560px-2009_Disney_XD_logo.svg.png" />
+  </channel>
+  <channel id="E.us@East">
+    <display-name lang="en">E! East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" />
+  </channel>
+  <channel id="ESPNU.us@SD">
+    <display-name lang="en">ESPN U (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" />
+  </channel>
+  <channel id="ESPNews.us@SD">
+    <display-name lang="en">ESPNews (720p)</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.jpg" />
+  </channel>
+  <channel id="FanDuelSportsNetwork.us@HD">
+    <display-name lang="en">FanDuel Sports Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1200px-FanDuel_Sports_Network_logo.svg.png" />
+  </channel>
+  <channel id="FanDuelTV.us@SD">
+    <display-name lang="en">FanDuel TV</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2024/02/FanDuel-logo-500x281.png" />
+  </channel>
+  <channel id="FoxBusinessNetwork.us@SD">
+    <display-name lang="en">Fox Business Network (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1024px-Fox_Business.svg.png" />
+  </channel>
+  <channel id="FoxNewsChannel.us@SD">
+    <display-name lang="en">Fox News Channel (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" />
+  </channel>
+  <channel id="FoxSoul.us@SD">
+    <display-name lang="en">Fox Soul</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_Soul_logo.svg/1200px-Fox_Soul_logo.svg.png" />
+  </channel>
+  <channel id="Fox_Sports_1">
+    <display-name lang="en">Fox Sports 1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" />
+  </channel>
+  <channel id="Freeform.us@East">
+    <display-name lang="en">Freeform East</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" />
+  </channel>
+  <channel id="Fuse.us@East">
+    <display-name lang="en">Fuse East (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" />
+  </channel>
+  <channel id="FX.us@East">
+    <display-name lang="en">FX East</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2025/08/FX-Logo.png" />
+  </channel>
+  <channel id="FXM.us@East">
+    <display-name lang="en">FXM East</display-name>
+    <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33e0dc33-4852-497a-944d-8a4dd997fa7e/dgkstgk-ebbfcbdb-422a-4b46-8102-ed48c24dae2f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zM2UwZGMzMy00ODUyLTQ5N2EtOTQ0ZC04YTRkZDk5N2ZhN2UvZGdrc3Rnay1lYmJmY2JkYi00MjJhLTRiNDYtODEwMi1lZDQ4YzI0ZGFlMmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AO2lCwP_VRe-xKwxyd-vk3jDffadxS0TVbJ9lIF_7Y0" />
+  </channel>
+  <channel id="FXX.us@East">
+    <display-name lang="en">FXX East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg" />
+  </channel>
+  <channel id="FYI.us@East">
+    <display-name lang="en">FYI East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/2560px-FYI%2C_logo.svg.png" />
+  </channel>
+  <channel id="GetTV.us@SD">
+    <display-name lang="en">GetTV (480p)</display-name>
+    <icon src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2020/07/getTV_logo_whitebg_sonynetwork-2.png" />
+  </channel>
+  <channel id="GolfChannel.us@SD">
+    <display-name lang="en">Golf Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" />
+  </channel>
+  <channel id="Great_American_Country">
+    <display-name lang="en">Great American Country</display-name>
+    <icon src="https://img.favpng.com/17/8/6/logo-great-american-country-television-channel-television-network-png-favpng-MFTf5n2CvGLZDqMAKnSr1dFCS.jpg" />
+  </channel>
+  <channel id="Grit.us@SD">
+    <display-name lang="en">Grit</display-name>
+    <icon src="https://ewscripps.brightspotcdn.com/bc/ce/36e9c679407597975f99bd72c4ce/grit-backup-800x450-1-3eukhzgwi4xn6nrxydf8y2.jpg" />
+  </channel>
+  <channel id="HallmarkChannel.us@East">
+    <display-name lang="en">Hallmark Channel East</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2022/02/Hallmark-Channel-Logo.png" />
+  </channel>
+  <channel id="HallmarkDrama.us@SD">
+    <display-name lang="en">Hallmark Drama (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1200px-Hallmark_logo.svg.png" />
+  </channel>
+  <channel id="HallmarkMoviesMysteries.us@East">
+    <display-name lang="en">Hallmark Movies Mysteries East</display-name>
+    <icon src="https://www.pngfind.com/pngs/m/139-1392680_hallmark-movies-mysteries-launch-hallmark-movies-mysteries-logo.png" />
+  </channel>
+  <channel id="History.us@East">
+    <display-name lang="en">History</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" />
+  </channel>
+  <channel id="HSN.us@East">
+    <display-name lang="en">HSN</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png" />
+  </channel>
+  <channel id="INSP.us@SD">
+    <display-name lang="en">INSP</display-name>
+    <icon src="https://www.insp.com/content/uploads/22-DC-0406_NewLookSameINSP_BlogAssets-780x350-1-3eukhzgwi4xn6nrxydf8y2.jpg" />
+  </channel>
+  <channel id="IONPlus.us@East">
+    <display-name lang="en">ION Plus East (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/541px-ION_Plus_logo.svg.png" />
+  </channel>
+  <channel id="IONTV.us@East">
+    <display-name lang="en">ION TV East</display-name>
+    <icon src="https://brandeps.com/logo-download/I/ION-Television-logo-vector-01.svg" />
+  </channel>
+  <channel id="Lifetime.us@East">
+    <display-name lang="en">Lifetime East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" />
+  </channel>
+  <channel id="LifetimeMovies.us@East">
+    <display-name lang="en">Lifetime Movies East</display-name>
+    <icon src="https://cdn.imgbin.com/2/18/23/imgbin-lifetime-movies-television-channel-logo-others-T8DfZb8A29Y0XdPMGPyKxEhbM.jpg" />
+  </channel>
+  <channel id="LoveNature.ca@SD">
+    <display-name lang="en">Love Nature</display-name>
+    <icon src="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark-thumbnail.png" />
+  </channel>
+  <channel id="MAV_TV">
+    <display-name lang="en">MAV TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/37/MavTV-2018.PNG" />
+  </channel>
+  <channel id="MeTV.us@SD">
+    <display-name lang="en">MeTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1280px-MeTV_Logo.svg.png" />
+  </channel>
+  <channel id="MGMPlus.us@East">
+    <display-name lang="en">MGM+ East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1280px-MGM%2B_logo.svg.png" />
+  </channel>
+  <channel id="MGMPlusMarquee.us@SD">
+    <display-name lang="en">MGM+ Marquee</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/1200px-MGM%2B_Marquee_2023.svg.png" />
+  </channel>
+  <channel id="MilitaryHistory.us@SD">
+    <display-name lang="en">Military History</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d0/History_channel_military.png" />
+  </channel>
+  <channel id="MLBNetwork.us@SD">
+    <display-name lang="en">MLB Network</display-name>
+    <icon src="https://www.nicepng.com/png/detail/178-1780608_big-ten-network-logo.png" />
+  </channel>
+  <channel id="MSG.us@SD">
+    <display-name lang="en">MSG</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" />
+  </channel>
+  <channel id="MTV2.us@East">
+    <display-name lang="en">MTV2 (720p)</display-name>
+    <icon src="https://p7.hiclipart.com/preview/757/1010/463/mtv2-logo-tv-viacom-media-networks-television-channel-mtv-logo.jpg" />
+  </channel>
+  <channel id="MTVClassic.us@East">
+    <display-name lang="en">MTV Classic (360p)</display-name>
+    <icon src="https://www.nicepng.com/png/detail/57-579258_mtv-classic-logo.png" />
+  </channel>
+  <channel id="MTV.us@East">
+    <display-name lang="en">MTV East</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2020/09/MTV-Logo-2021-present.png" />
+  </channel>
+  <channel id="MTVLive.us@SD">
+    <display-name lang="en">MTV Live (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png" />
+  </channel>
+  <channel id="MTVU.us@SD">
+    <display-name lang="en">mtvU (480p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" />
+  </channel>
+  <channel id="Much.ca@SD">
+    <display-name lang="en">Much (720p)</display-name>
+    <icon src="https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-tv-icon-with-colorful-color-logo-vector-png-image_7029451.png" />
+  </channel>
+  <channel id="NationalGeographic.us@East">
+    <display-name lang="en">National Geographic East</display-name>
+    <icon src="https://e7.pngegg.com/pngimages/202/126/png-clipart-national-geographic-logo-national-geographic-logo-icons-logos-emojis-iconic-brands-thumbnail.png" />
+  </channel>
+  <channel id="NationalGeographicWild.us@East">
+    <display-name lang="en">National Geographic Wild East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" />
+  </channel>
+  <channel id="NBATV.us@SD">
+    <display-name lang="en">NBA TV</display-name>
+    <icon src="https://images.seeklogo.com/logo-png/22/1/nba-tv-logo-png_seeklogo-229221.png" />
+  </channel>
+  <channel id="NewsNation.us@East">
+    <display-name lang="en">News Nation (720p)</display-name>
+    <icon src="https://img.favpng.com/22/15/20/news-nation-logo-24-hour-news-cycle-media-png-favpng-twgumGJiuHcYBnb5WJ0dXYSrp.jpg" />
+  </channel>
+  <channel id="NFLNetwork.us@SD">
+    <display-name lang="en">NFL Network</display-name>
+    <icon src="https://www.nicepng.com/png/detail/65-652318_nfl-network-logo-png-nfl-network-logo.png" />
+  </channel>
+  <channel id="NFLRedZone.us@SD">
+    <display-name lang="en">NFL RedZone</display-name>
+    <icon src="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" />
+  </channel>
+  <channel id="NHLNetwork.us@SD">
+    <display-name lang="en">NHL Network (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e1/NHL_Network_2009.png" />
+  </channel>
+  <channel id="NickJr.us@East">
+    <display-name lang="en">Nick Jr. East (720p)</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" />
+  </channel>
+  <channel id="NickMusic.us@SD">
+    <display-name lang="en">Nick Music (720p)</display-name>
+    <icon src="https://variety.com/wp-content/uploads/2016/08/14051706_1756584314596667_1229740014207235146_n.jpg?w=600&h=563&crop=1" />
+  </channel>
+  <channel id="Nickelodeon.us@East">
+    <display-name lang="en">Nickelodeon East</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.jpg" />
+  </channel>
+  <channel id="Nicktoons.us@East">
+    <display-name lang="en">Nicktoons East</display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2023/04/Nicktoons-Logo-2003.png" />
+  </channel>
+  <channel id="OutdoorChannel.us@SD">
+    <display-name lang="en">Outdoor Channel</display-name>
+    <icon src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/019f9a50258033.58cb840c2b144.jpg" />
+  </channel>
+  <channel id="OuterMax.us@East">
+    <display-name lang="en">OuterMax East (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/2560px-OuterMax_Logo.svg.png" />
+  </channel>
+  <channel id="OutsideTV.us@SD">
+    <display-name lang="en">Outside TV</display-name>
+    <icon src="https://images.seeklogo.com/logo-png/50/2/outside-tv-logo-png_seeklogo-509597.png" />
+  </channel>
+  <channel id="Ovation.us@SD">
+    <display-name lang="en">Ovation (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/02/Ovation_Logo.png" />
+  </channel>
+  <channel id="Oxygen.us@East">
+    <display-name lang="en">Oxygen East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" />
+  </channel>
+  <channel id="ParamountNetwork.us@East">
+    <display-name lang="en">Paramount Network East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" />
+  </channel>
+  <channel id="PopTV.us@SD">
+    <display-name lang="en">Pop TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pop_TV_Logo.svg/2560px-Pop_TV_Logo.svg.png" />
+  </channel>
+  <channel id="PursuitChannel.us@SD">
+    <display-name lang="en">Pursuit Channel (720p)</display-name>
+    <icon src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064601018671" />
+  </channel>
+  <channel id="QVC.us@SD">
+    <display-name lang="en">QVC (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/QVC.svg/941px-QVC.svg.png" />
+  </channel>
+  <channel id="Reelz.us@SD">
+    <display-name lang="en">Reelz (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Reelz_Channel_Logo.png" />
+  </channel>
+  <channel id="Revolt.us@SD">
+    <display-name lang="en">Revolt</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Revolt_TV_logo.png" />
+  </channel>
+  <channel id="Showtime2.us@East">
+    <display-name lang="en">Showtime 2 East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" />
+  </channel>
+  <channel id="Showtime.us@East">
+    <display-name lang="en">Showtime East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png" />
+  </channel>
+  <channel id="ShowtimeNext.us@East">
+    <display-name lang="en">Showtime Next East</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/78/Showtime_Next_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015111" />
+  </channel>
+  <channel id="Showtime.us@West">
+    <display-name lang="en">Showtime West (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png" />
+  </channel>
+  <channel id="ShowtimeWomen.us@East">
+    <display-name lang="en">Showtime Women East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" />
+  </channel>
+  <channel id="SmithsonianChannel.us@East">
+    <display-name lang="en">Smithsonian Channel East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" />
+  </channel>
+  <channel id="SonyChannel.mx@SD">
+    <display-name lang="en">Sony Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" />
+  </channel>
+  <channel id="SportsmanChannel.us@SD">
+    <display-name lang="en">Sportsman Channel</display-name>
+    <icon src="https://allvectorlogo.com/img/2017/05/sportsman-channel-logo.png" />
+  </channel>
+  <channel id="SportsNetNewYork.us@SD">
+    <display-name lang="en">SportsNet New York (540p)</display-name>
+    <icon src="https://download.logo.wine/logo/SportsNet_New_York/SportsNet_New_York-Logo.wine.png" />
+  </channel>
+  <channel id="StartTV.us@SD">
+    <display-name lang="en">Start TV</display-name>
+    <icon src="https://www.nicepng.com/png/detail/357-3575178_star-tv-network-star-logo-transparent-background.png" />
+  </channel>
+  <channel id="Starz.us@East">
+    <display-name lang="en">Starz East</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2023/02/Starz-logo.jpg" />
+  </channel>
+  <channel id="StarzEncoreClassic.us@East">
+    <display-name lang="en">Starz Encore Classic East</display-name>
+    <icon src="https://brandeps.com/logo-download/E/Encore-Classic-logo-vector-01.svg" />
+  </channel>
+  <channel id="Starz.us@West">
+    <display-name lang="en">Starz West</display-name>
+    <icon src="https://1000logos.net/wp-content/uploads/2023/02/Starz-logo.jpg" />
+  </channel>
+  <channel id="StoriesbyAMC.us@EastHD">
+    <display-name lang="en">Stories by AMC (1080p)</display-name>
+    <icon src="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/02/08/STORIES_by_AMC_Channel_1080x1080_Square3-sxhfgefe.png" />
+  </channel>
+  <channel id="SundanceTV.us@East">
+    <display-name lang="en">Sundance TV East</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" />
+  </channel>
+  <channel id="Syfy.us@East">
+    <display-name lang="en">Syfy East</display-name>
+    <icon src="https://brandeps.com/logo-download/S/Syfy-logo-vector-01.svg" />
+  </channel>
+  <channel id="TeenNick.us@East">
+    <display-name lang="en">TeenNick</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" />
+  </channel>
+  <channel id="TennisChannel.us@SD">
+    <display-name lang="en">Tennis Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/918px-Tennis_Channel_logo.svg.png" />
+  </channel>
+  <channel id="TheCowboyChannel.us@SD">
+    <display-name lang="en">The Cowboy Channel</display-name>
+    <icon src="https://www.vhv.rs/dpng/d/356-3568646_cowboy-channel-2mb-final-cowboy-channel-hd-png.png" />
+  </channel>
+  <channel id="TSN1.ca@SD">
+    <display-name lang="en">TSN1 (1080p)</display-name>
+    <icon src="https://brandeps.com/logo-download/T/TSN1-logo-vector-01.svg" />
+  </channel>
+  <channel id="TSN2.ca@SD">
+    <display-name lang="en">TSN2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" />
+  </channel>
+  <channel id="TSN3.ca@SD">
+    <display-name lang="en">TSN3</display-name>
+    <icon src="https://brandeps.com/logo-download/T/TSN3-logo-vector-01.svg" />
+  </channel>
+  <channel id="TSN4.ca@SD">
+    <display-name lang="en">TSN4</display-name>
+    <icon src="https://brandeps.com/logo-download/T/TSN4-logo-vector-01.svg" />
+  </channel>
+  <channel id="TSN5.ca@SD">
+    <display-name lang="en">TSN5</display-name>
+    <icon src="https://brandeps.com/logo-download/T/TSN5-logo-vector-01.svg" />
+  </channel>
+  <channel id="TVLand.us@East">
+    <display-name lang="en">TV Land</display-name>
+    <icon src="https://www.hollywoodreporter.com/wp-content/uploads/2012/05/tv_land_logo_a_l.jpg" />
+  </channel>
+  <channel id="TVOne.us@SD">
+    <display-name lang="en">TV One</display-name>
+    <icon src="https://www.nicepng.com/png/detail/357-3578540_tv-one-logo-png-tv-one.png" />
+  </channel>
+  <channel id="TVJ.jm@SD">
+    <display-name lang="en">TVJ (720p)</display-name>
+    <icon src="https://st.depositphotos.com/12124814/52300/v/450/depositphotos_523008006-stock-illustration-tvj-letters-isolated-white-background.jpg" />
+  </channel>
+  <channel id="UpTV.us@SD">
+    <display-name lang="en">Up TV (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/UPTV_Tiffany_RGB.svg/2560px-UPTV_Tiffany_RGB.svg.png" />
+  </channel>
+  <channel id="USANetwork.us@East">
+    <display-name lang="en">USA Network (720p)</display-name>
+    <icon src="https://brandeps.com/logo-download/U/USA-Network-logo-vector-01.svg" />
+  </channel>
+  <channel id="VH1.us@East">
+    <display-name lang="en">VH1 East</display-name>
+    <icon src="https://brandeps.com/logo-download/V/VH1-logo-vector-01.svg" />
+  </channel>
+  <channel id="VICETV.us@SD">
+    <display-name lang="en">VICE TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Vice_TV_logo.svg" />
+  </channel>
+  <channel id="WNetwork.ca@East">
+    <display-name lang="en">W Network (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/843px-W_Network_Logo.svg.png" />
+  </channel>
+  <channel id="WCBSDT1.us@SD">
+    <display-name lang="en">WCBS-DT1 (720p)</display-name>
+    <icon src="https://images.seeklogo.com/logo-png/46/1/wcbs-tv-logo-png_seeklogo-469501.png" />
+  </channel>
+  <channel id="WeTV.us@East">
+    <display-name lang="en">We TV East</display-name>
+    <icon src="https://designer.tencent.co.th/logo/dw/WeTV-vertical.jpg" />
+  </channel>
+  <channel id="WFLADT1.us@SD">
+    <display-name lang="en">WFLA-DT1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/0d/WFLA_Logo.png" />
+  </channel>
+  <channel id="WFLXDT1.us@SD">
+    <display-name lang="en">WFLX-DT1</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/77/Wflx_c.png/revision/latest?cb=20230502123534" />
+  </channel>
+  <channel id="WFTSDT1.us@SD">
+    <display-name lang="en">WFTS-DT1</display-name>
+    <icon src="https://static.wikia.nocookie.net/logo-timeline/images/3/35/WFTS_1.png/revision/latest?cb=20211113153452" />
+  </channel>
+  <channel id="WGNDT1.us@SD">
+    <display-name lang="en">WGN-DT1 (720p)</display-name>
+    <icon src="https://static.wikitide.net/avidwiki/thumb/3/37/WGN-TV_Color_%281967%2C_B%29.png/385px-WGN-TV_Color_%281967%2C_B%29.png" />
+  </channel>
+  <channel id="Willow.us@SD">
+    <display-name lang="en">Willow</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" />
+  </channel>
+  <channel id="WKCFDT1.us@SD">
+    <display-name lang="en">WKCF-DT1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WKCF_logo_2024.svg/1200px-WKCF_logo_2024.svg.png" />
+  </channel>
+  <channel id="WNBCDT1.us@SD">
+    <display-name lang="en">WNBC-DT1</display-name>
+    <icon src="https://p7.hiclipart.com/preview/913/788/854/new-york-city-wnbc-logo-of-nbc-nbc-news-others.jpg" />
+  </channel>
+  <channel id="WOFLDT1.us@SD">
+    <display-name lang="en">WOFL-DT1 (720p)</display-name>
+    <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d98af92-96cb-4e56-bd09-2c97cbb27535/dhzmb10-d252f967-891b-4839-99ac-25d313daeed8.png/v1/fill/w_670,h_1192/wofl_tv_logo__vertical__by_thenexusonda_dhzmb10-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzBkOThhZjkyLTk2Y2ItNGU1Ni1iZDA5LTJjOTdjYmIyNzUzNVwvZGh6bWIxMC1kMjUyZjk2Ny04OTFiLTQ4MzktOTlhYy0yNWQzMTNkYWVlZDgucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vMUmdDSq4GwMfEbGOAFxQixUp7LZMMdM_7sci0E7sko" />
+  </channel>
+  <channel id="WorldFishingNetwork.us@SD">
+    <display-name lang="en">World Fishing Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/1200px-WFN_2014_logo.svg.png" />
+  </channel>
+  <channel id="WPECDT1.us@SD">
+    <display-name lang="en">WPEC-DT1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/dc/WPEC_CBS12_solid_calls.svg" />
+  </channel>
+  <channel id="WTOGDT1.us@SD">
+    <display-name lang="en">WTOG-DT1</display-name>
+    <icon src="https://static.wikia.nocookie.net/logo-timeline/images/3/3a/WTOG_CW_44.png/revision/latest?cb=20210817120311" />
+  </channel>
+  <channel id="WVGNLD1.vi@SD">
+    <display-name lang="en">WVGN-LD1</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8b/WVGN_Station_ID.png/revision/latest/scale-to-width-down/200?cb=20231019120154" />
+  </channel>
+  <channel id="YesNetwork.us@SD">
+    <display-name lang="en">Yes Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" />
+  </channel>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="BETSoul.us@SD">
+    <title lang="en">R&B Hits</title>
+    <desc lang="en">Latest R&B video playlist.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="BETSoul.us@SD">
+    <title lang="en">Soul Legends</title>
+    <desc lang="en">Tribute to soul icons.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="BETSoul.us@SD">
+    <title lang="en">Live Performance</title>
+    <desc lang="en">Live soul music event.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="BigTenNetwork.us@SD">
+    <title lang="en">College Football</title>
+    <desc lang="en">Live college football game.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="BigTenNetwork.us@SD">
+    <title lang="en">Post-Game Show</title>
+    <desc lang="en">Analysis of the game.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="BigTenNetwork.us@SD">
+    <title lang="en">Highlights Reel</title>
+    <desc lang="en">Best moments from the season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="BigTenNetwork.us@SD">
+    <title lang="en">Next Game Preview</title>
+    <desc lang="en">Preview of upcoming match.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="BloombergTV.us@US">
+    <title lang="en">Market Update</title>
+    <desc lang="en">Live stock market news.</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="BloombergTV.us@US">
+    <title lang="en">Tech Report</title>
+    <desc lang="en">Technology industry insights.</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="BloombergTV.us@US">
+    <title lang="en">Global Economy</title>
+    <desc lang="en">Economic trends discussion.</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="BloombergTV.us@US">
+    <title lang="en">Interview Series</title>
+    <desc lang="en">CEO interview segment.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="Bounce.us@SD">
+    <title lang="en">Action Movie</title>
+    <desc lang="en">High-energy action film.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="Bounce.us@SD">
+    <title lang="en">Comedy Special</title>
+    <desc lang="en">Stand-up comedy show.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="Bounce.us@SD">
+    <title lang="en">Drama Series</title>
+    <desc lang="en">New drama episode.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="Bounce.us@SD">
+    <title lang="en">Movie Preview</title>
+    <desc lang="en">Upcoming film teaser.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="Bravo.us@East">
+    <title lang="en">Reality Show</title>
+    <desc lang="en">Latest episode of a reality series.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="Bravo.us@East">
+    <title lang="en">Lifestyle Tips</title>
+    <desc lang="en">Home and fashion advice.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="Bravo.us@East">
+    <title lang="en">Behind the Scenes</title>
+    <desc lang="en">Making of the reality show.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="Bravo.us@East">
+    <title lang="en">Fan Favorites</title>
+    <desc lang="en">Best moments recap.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="Buzzr.us@SD">
+    <title lang="en">Game Show Classics</title>
+    <desc lang="en">Vintage game show marathon.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="Buzzr.us@SD">
+    <title lang="en">Trivia Challenge</title>
+    <desc lang="en">Interactive trivia event.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="Buzzr.us@SD">
+    <title lang="en">Retro Games</title>
+    <desc lang="en">Old-school game show reruns.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="Buzzr.us@SD">
+    <title lang="en">Winner’s Circle</title>
+    <desc lang="en">Highlighting past winners.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="CSPAN.us@SD">
+    <title lang="en">Political Debate</title>
+    <desc lang="en">Live political discussion.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="CSPAN.us@SD">
+    <title lang="en">Congress Live</title>
+    <desc lang="en">Live session from Congress.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="CSPAN.us@SD">
+    <title lang="en">Public Forum</title>
+    <desc lang="en">Open public policy discussion.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="CSPAN.us@SD">
+    <title lang="en">Historical Review</title>
+    <desc lang="en">Look back at past legislation.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="CBS.us@East">
+    <title lang="en">News Broadcast</title>
+    <desc lang="en">Live national news update.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="CBS.us@East">
+    <title lang="en">Sports Segment</title>
+    <desc lang="en">Weekend sports highlights.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="CBS.us@East">
+    <title lang="en">Drama Series</title>
+    <desc lang="en">New episode of a drama.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="CBS.us@East">
+    <title lang="en">Evening Magazine</title>
+    <desc lang="en">Lifestyle and entertainment.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="CBSSportsNetworkUSA.us@SD">
+    <title lang="en">Sports Live</title>
+    <desc lang="en">Live sports event coverage.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="CBSSportsNetworkUSA.us@SD">
+    <title lang="en">Post-Game Analysis</title>
+    <desc lang="en">Detailed game breakdown.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="CBSSportsNetworkUSA.us@SD">
+    <title lang="en">Highlights Show</title>
+    <desc lang="en">Best sports moments.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="CBSSportsNetworkUSA.us@SD">
+    <title lang="en">Sports Preview</title>
+    <desc lang="en">Upcoming sports events.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20251018133900 -0400" stop="20251018143900 -0400" channel="CHBLTV.ca@SD">
+    <title lang="en">Local News</title>
+    <desc lang="en">Canadian local news update.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20251018143900 -0400" stop="20251018153900 -0400" channel="CHBLTV.ca@SD">
+    <title lang="en">Weather Report</title>
+    <desc lang="en">Local weather forecast.</desc>
+    <category lang="en">Weather</category>
+  </programme>
+  <programme start="20251018153900 -0400" stop="20251018163900 -0400" channel="CHBLTV.ca@SD">
+    <title lang="en">Community Talk</title>
+    <desc lang="en">Local community discussion.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20251018163900 -0400" stop="20251018173900 -0400" channel="CHBLTV.ca@SD">
+    <title lang="en">Special Feature</title>
+    <desc lang="en">In-depth local story.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+</tv>
